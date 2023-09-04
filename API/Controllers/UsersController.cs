@@ -133,5 +133,3 @@ public class UsersController : BaseApiController
         return BadRequest("Problem deleting photo");
     }
 }
-
-    
